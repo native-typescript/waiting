@@ -1,0 +1,24 @@
+{
+	"author": {
+		"email": "goodheropl@gmail.com",
+		"name": "Rafał Majewski",
+		"url": "https://github.com/rafal-majewski"
+	},
+	"bugs": {
+		"url": "https://github.com/native-typescript/waiting/issues"
+	},
+	"description": "A library for waiting.",
+	"engines": {
+		"node": ">=26.9.0",
+		"npm": ">=11.19.1"
+	},
+	"homepage": "https://github.com/native-typescript/waiting#readme",
+	"name": "@native-typescript/waiting",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/native-typescript/waiting.git"
+	},
+	"scripts": {},
+	"type": "module",
+	"version": "3.0.0"
+}
