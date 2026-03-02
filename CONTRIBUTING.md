@@ -3,6 +3,7 @@
 ## File structure
 
 - .devcontainer – Configuration of [Development Containers](https://containers.dev);
+- [.env](https://nodejs.org/api/environment_variables.html#env-files);
 - .git – Metadata of the [Git](https://git-scm.com) repository;
 - .github – Configuration of [GitHub](https://github.com);
 - [.gitignore](https://git-scm.com/docs/gitignore);
