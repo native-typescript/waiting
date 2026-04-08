@@ -19,6 +19,7 @@
 - [README.md](https://en.wikipedia.org/wiki/README);
 - [release-it.config.ts](https://github.com/release-it/release-it/blob/main/docs/configuration.md#configuration) - Configuration of [release-it](https://github.com/release-it/release-it);
 - source - Source code;
+  - index.ts - Index of source code;
 - testing - Testing code;
   - core - Core modules;
   - entrypoint-of-testing.ts - Global setup and teardown for tests;

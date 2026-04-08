@@ -30,6 +30,7 @@
 		"node": ">=24.14.0",
 		"npm": ">=11.9.0"
 	},
+	"exports": "./source/index.ts",
 	"homepage": "https://github.com/native-typescript/waiting#readme",
 	"name": "@native-typescript/waiting",
 	"repository": {
