@@ -1,1 +1,1 @@
-export type * as waiting from "./source/index.ts";
+export * as waiting from "./source/index.ts";
