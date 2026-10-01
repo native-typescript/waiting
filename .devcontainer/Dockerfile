@@ -7,5 +7,6 @@ RUN mkdir /home/developer/waiting
 RUN chown developer:developer /home/developer/waiting
 RUN apt-get update && apt-get install -y --no-install-recommends git && rm -rf /var/lib/apt/lists/*
 RUN apt-get update && apt-get install -y --no-install-recommends openssh-client && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y --no-install-recommends curl && rm -rf /var/lib/apt/lists/*
 USER developer
 WORKDIR /home/developer/waiting
