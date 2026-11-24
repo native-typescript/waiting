@@ -1,1 +1,1 @@
-export type * as templateOfNodeJsLibrary_ from "./index.ts";
+export * as waiting_ from "./index.ts";
